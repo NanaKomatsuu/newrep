@@ -1,0 +1,164 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: garamond, serif;
+    color:#40514e;
+    
+}
+h1{
+    color:  #F1ECC3;
+    font-size: 5.625rem;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    line-height: 2;
+}
+.rockstar{
+    color: #F1ECC3;
+}
+h2{
+    color:  #FF3D68;
+    font-size: 2.5rem;
+    font-weight:bold;
+    padding-bottom: 10px;
+
+}
+h3{
+    color:#66DE93;
+    font-size: 20px;
+    
+}
+.intro{
+    width:30%;
+    margin: auto;
+    
+}
+.biography{
+    margin: 100px auto;
+}
+.guitar-skill{
+    width:30%;
+    margin: auto;
+    
+}
+
+.footer-link{
+    color:#7F8B52;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.copyright{
+    color: burlywood;
+    font-size: 0.75rem;
+}
+
+
+span{
+    text-decoration: underline;
+    
+}
+.nana{
+    border-radius: 80%;
+    padding: 20px;
+}
+.guitar{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    padding: 20px;
+}
+.singing{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    
+}
+
+.top-container{
+    background-color: FDFFBC;
+    position: relative;
+    padding-top: 100px;
+    background-image:url("https://cdna.artstation.com/p/assets/images/images/029/650/258/large/clarice-penny-evening-clouds-and-sky-large-sighned.jpg?1598236329");
+    background-size: cover;
+    
+} 
+    
+.middle-container{
+    background-color: FFEEBB;
+}
+.bottom-container{
+    background-color:FFC1B6;
+    padding: 50px 0 20px;
+    
+    
+}
+.cloud1{
+    margin: 20px;
+    position: absolute;
+    right: 200px;
+    top: 150px;;
+}
+.cloud2{
+   
+    position:absolute;
+    top:30px;
+    left: 300px;
+    bottom:300px;
+    
+}
+.skill-row{
+    width: 50%;
+    position: relative;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+hr{
+    border: dotted #FFDCB8 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.glasses{
+    padding-bottom: 10px;
+}
+.btn {
+    background: #B6C867;
+    background-image: -webkit-linear-gradient(top, #66DE93, #66DE93);
+    background-image: -moz-linear-gradient(top, #66DE93, #66DE93);
+    background-image: -ms-linear-gradient(top, #66DE93, #66DE93);
+    background-image: -o-linear-gradient(top, #66DE93, #66DE93);
+    background-image: linear-gradient(to bottom, #66DE93, #66DE93);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 19px;
+    padding: 10px 20px 10px 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-decoration: none;
+    position: relative;
+    top:20px;
+  }
+  
+  .btn:hover {
+    background: #FFDCB8;
+    background-image: -webkit-linear-gradient(top, #FFDCB8, #FFDCB8);
+    background-image: -moz-linear-gradient(top, #FFDCB8, #FFDCB8);
+    background-image: -ms-linear-gradient(top, #FFDCB8, #FFDCB8);
+    background-image: -o-linear-gradient(top, #FFDCB8, #FFDCB8);
+    background-image: linear-gradient(to bottom, #FFDCB8, #FFDCB8);
+    text-decoration: none;
+
+  }
+  .contact-me{
+      padding-bottom: 50px;
+  }
+  a{
+      text-decoration: none;
+  }
+ .copyright{
+     margin: 40px auto 0px auto;
+     padding-bottom: 0px;
+ }
